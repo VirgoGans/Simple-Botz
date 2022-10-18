@@ -51,7 +51,7 @@ global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6282131369002' //Nomor Bot mu
-global.nomorown = '6285172446692' //Nomormu
+global.nomorown = '6288227856331' //Nomormu
 global.namebot = 'Levi-Mods-Ganz' //Nama bot mu
 global.nameown = 'Levi-Ganz' //Nama mu
 
@@ -85,15 +85,15 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285172446692'], //Owner1
-  ['6285172446692'], //Owner2
-  ['6285172446692', 'Levi ! 🥶', true] //Ini buat kamu!
+  ['6288227856331'], //Owner1
+  ['6288227856331'], //Owner2
+  ['6288227856331', 'Levi ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = ['6288227856331'] // Want some help?
 global.cheat = [] // ketik .cheat aja
 global.waifu = []
-global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @Fangz 15
+global.prems = ['6288227856331'] // Jangan di isi, Tambahin dari bot nya ketik .addprem @Fangz 15
 
 
 /*⫘⫘⫘⫘ APIKEY ⫘⫘⫘⫘⫘*/
